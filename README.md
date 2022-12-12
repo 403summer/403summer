@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Heoll! I'm Summer🐱&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!\%20I'm\%20Summer🐱&fontSize=80)
 
 ##Data Analyst stack\n 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=black)![pandas](https://img.shields.io/badge/Pandas-025E8C?style=flat-square&logo=pandas&logoColor=black)
