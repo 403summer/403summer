@@ -12,4 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=403호%20여름이🐱:cat:&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=403호%20여름이🐱&fontSize=90)
+
+<div align="center">
+  ## tech
+</div>
