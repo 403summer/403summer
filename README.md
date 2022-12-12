@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!\%20I'm\%20Summer🐱&fontSize=80)
 
-##Data Analyst stack\n 
+<senter>## 🌟Data Analyst stack🌟<\center>
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=black)![pandas](https://img.shields.io/badge/Pandas-025E8C?style=flat-square&logo=pandas&logoColor=black)
 
-##cowork tool
+## 🌟cowork tool🌟
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=#EEEEEE)![Jupyter](https://img.shields.io/badge/Jupyter-5881D8?style=flat-square&logo=Jupyter&logoColor=#5881D8)![Slack](https://img.shields.io/badge/Slack-ED1944?style=flat-square&logo=Slack&logoColor=#ED1944)
 
